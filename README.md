@@ -6,5 +6,6 @@
 - [text clip](https://codepen.io/OkiDokiTokiLoki/full/LYvMeGE)
 - [append on mouseMove](https://codepen.io/OkiDokiTokiLoki/full/zYXyRBK)
 - [respond to mouseMove](https://codepen.io/OkiDokiTokiLoki/full/LYvqreL)
+- [proximity follow](https://codepen.io/OkiDokiTokiLoki/full/VwNJVzp)
 - [custom cursor follow](https://codepen.io/OkiDokiTokiLoki/full/VwNRJOg)
 - [split screen](https://codepen.io/OkiDokiTokiLoki/full/oNOmgdx)
